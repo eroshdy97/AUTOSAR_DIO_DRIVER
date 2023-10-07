@@ -1,0 +1,6 @@
+"./main.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"./DIO_DRIVER/Dio.obj"
+"./PORT_DRIVER/Port.obj"
+"../tm4c123gh6pm.cmd"
+-llibc.a
